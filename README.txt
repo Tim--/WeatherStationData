@@ -1,0 +1,1 @@
+A Hadoop MapReduce program that calculates average and total rainfall from a large set of weather station data.
